@@ -4,7 +4,7 @@ This project idea is inspired by: [Fair Is Better than Sensational: Man Is to Do
 
 The goal of this project is to compare the performance of NLP models trained on datasets from two different time periods using analogy tests for word embeddings. This project aims to assess the human biases in word embeddings, and discover if these biases change, improve, or worsen over time.
 
-Wikipedia is used because it is a large collection of articles with available recent dumps (March 2022) as well as an archive from 2006. This will allow for sufficient depth while modeling, and the sixteen-year difference between the two may reflect differences in model performance.
+Wikipedia is used because it is a large collection of articles with available recent dumps (March 2022) as well as an archive from 2006. This will allow for sufficient depth while modeling, and the sixteen-year difference between the two may reflect differences in test performance.
 
 Analogy tests are excellent metrics for how well a model can predict meaning of words. Words are represented as vectors, and the model calculates the cosine similarity between two words in an analogy to find the correct answer.
 
