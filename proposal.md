@@ -15,4 +15,6 @@ This visualization from Brian Spiering’s Data Ethics course provides an excell
 Also from Brian Spiering's Data Ethics course, an example of what an analogy test looks like is as follows.
 <img width="991" alt="Screen Shot 2022-03-02 at 2 52 27 PM" src="https://user-images.githubusercontent.com/84412675/156464492-87ed3449-6bbf-41ab-96ee-4dbff24bee02.png">
 
-Algorithms used will be unsupervised learning models including dimensionality reduction/topic modeling. 
+Algorithms used will be unsupervised learning models including dimensionality reduction/topic modeling. Python libraries used will be pandas and scikit-learn for data cleaning and modeling, and possibly spaCy, gensim, or NLTK as needed.
+
+An MVP would include results of many analogy tests for the models from both the 2006 and 2022 Wikipedia dumps. Further work would include improving the models to assess for and reduce biases in the analogy test answers.
