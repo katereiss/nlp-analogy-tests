@@ -2,7 +2,7 @@
 
 This project idea is inspired by: [Fair Is Better than Sensational: Man Is to Doctor as Woman Is to Doctor](https://direct.mit.edu/coli/article/46/2/487/93368/Fair-Is-Better-than-Sensational-Man-Is-to-Doctor) and [Large language models associate Muslims with violence](https://www.nature.com/articles/s42256-021-00359-2?proof=t).
 
-The goal of this project is to compare the performance of NLP models trained on datasets from two different time periods using analogy tests for word embeddings. 
+The goal of this project is to compare the performance of NLP models trained on datasets from two different time periods using analogy tests for word embeddings. This project aims to assess the human biases in word embeddings, and discover if these biases change, improve, or worsen over time.
 
 Wikipedia is used because it is a large collection of articles with available recent dumps (March 2022) as well as an archive from 2006. This will allow for sufficient depth while modeling, and the sixteen-year difference between the two may reflect differences in model performance.
 
