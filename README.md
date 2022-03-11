@@ -1,4 +1,4 @@
-# Clustering Word Embeddings to Analyze Semantic Differences
+# Clustering Word Embeddings to Analyze Semantic Differences between Wikipedia and Twitter
 
 **Introduction**
 
