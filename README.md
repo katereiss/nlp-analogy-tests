@@ -4,7 +4,7 @@
 
 Inspired by the papers [Fair Is Better than Sensational: Man Is to Doctor as Woman Is to Doctor](https://direct.mit.edu/coli/article/46/2/487/93368/Fair-Is-Better-than-Sensational-Man-Is-to-Doctor) and [Large language models associate Muslims with violence](https://www.nature.com/articles/s42256-021-00359-2?proof=t), this project aims to answer the question: how do word embeddings differ by training them on text from different sources?
 
-Word embeddings are representations of words as vectors, and words closer to one another have similar meaning or usage. Word embeddings are therefore an excellent tool for analyzing semantics of words. If vectors representing the same word are far from one another, this may be an indicator of this wod having different meaning or usage between the two training corpora.
+Word embeddings are representations of words as vectors, and words closer to one another have similar meaning or usage. Word embeddings are therefore an excellent tool for analyzing semantics of words. If vectors representing the same word are far from one another, this may be an indicator of this word having different meaning or usage between the two training corpora.
 
 I was interested in finding out how an unsupervised clustering algorithm would cluster the data from both corpora, and if human biases would be easily apparent in one or both corpora. 
 
