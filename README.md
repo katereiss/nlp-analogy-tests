@@ -6,7 +6,7 @@ Inspired by the papers [Fair Is Better than Sensational: Man Is to Doctor as Wo
 
 Word embeddings are representations of words as vectors, and words closer to one another have similar meaning or usage. Word embeddings are therefore an excellent tool for analyzing semantics of words. If vectors representing the same word are far from one another, this may be an indicator of this word having different meaning or usage between the two training corpora.
 
-I was interested in finding out how an unsupervised clustering algorithm would cluster the data from both corpora, and if human biases would be easily apparent in one or both corpora. 
+I was interested in finding out how an unsupervised clustering algorithm would cluster the data from both corpora, and if human biases would be apparent in one or both corpora. 
 
 **Design and Data**
 
